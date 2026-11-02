@@ -1,0 +1,7 @@
+{
+  "name": "mangaverse-br",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node mangaverse.js" },
+  "engines": { "node": ">=18" }
+}
